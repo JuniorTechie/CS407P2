@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ViewController2.swift
 //  P2
 //
 //  Created by Solomon Kim on 10/5/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController2: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
